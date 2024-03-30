@@ -1,0 +1,49 @@
+* {
+    margin: 2;
+    padding: 2;
+    box-sizing: border-box;
+}
+
+body {
+    max-width: 80ch;
+    margin: auto;
+    color: red; 
+    background-color: #FFC0CB;
+}
+
+a {
+    color: #0066cc; 
+}
+
+
+header {
+    background-color: #00BFFF; 
+    font-size: 3rem; 
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 20px; 
+}
+
+nav a:hover {
+    background-color: #ddd; 
+}
+
+
+h1, h2, h3 {
+    margin: 20px 0;
+}
+
+
+figure {
+    text-align: center;
+}
+
+figcaption {
+    margin-top: 10px;
+}
+
