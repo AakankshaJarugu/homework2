@@ -1,6 +1,6 @@
 * {
-    margin: 0;
-    padding: 0;
+    margin: 2;
+    padding: 2;
     box-sizing: border-box;
 }
 
@@ -8,7 +8,7 @@ body {
     max-width: 80ch;
     margin: auto;
     color: #333; 
-    background-color: #f4f4f4; 
+    background-color: #FFC0CB;
 }
 
 a {
@@ -17,7 +17,7 @@ a {
 
 
 header {
-    background-color: #e6e6e6; 
+    background-color: #00BFFF; 
     font-size: 3rem; 
     text-align: center;
 }
